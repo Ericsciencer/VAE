@@ -5,7 +5,7 @@
 [中文简介](#简介) | [English](#introduction)
 
 ### 结果 | Result
-
+从先验分布中随机采样生成的图像：
 <img width="1200" height="1200" alt="samples" src="https://github.com/user-attachments/assets/0bc563c2-8641-44bc-ae3f-f44ac55745cc" />
 
 训练损失曲线：
