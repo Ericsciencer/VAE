@@ -44,7 +44,7 @@
 
 <img width="1280" height="738" alt="image" src="https://github.com/user-attachments/assets/77310935-2e7e-471c-9fad-65348cb10088" />
 
-更多细节见文章：VAE深入浅出
+更多细节见文章：[VAE深入浅出](https://blog.csdn.net/Eric005/article/details/170147346?fromshare=blogdetail&sharetype=blogdetail&sharerId=170147346&sharerefer=PC&sharesource=Eric005&sharefrom=from_link)
 
 **注意**：为降低训练开销、便于快速复现验证，本实现采用轻量化 Mini-VAE 配置（隐藏层维度 400、潜在维度 20），数据集使用 MNIST 小型图像语料，但模型结构、ELBO 计算、重参数化设计、训练范式均严格对齐原论文标准。
 
